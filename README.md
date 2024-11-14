@@ -2,4 +2,6 @@
 ## Requirements
 - Ubuntu OS (18.04.5 are tested)
 - Python == 3.9
-- 
+- torch==2.1.1
+## Data Format
+We prepare the sample data, you can replace it with your own data to run Path-LLM.
