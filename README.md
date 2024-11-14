@@ -4,4 +4,4 @@
 - Python == 3.9
 - torch==2.1.1
 ## Data Format
-We prepare the sample data[sample](main/sample), you can replace it with your own data to run Path-LLM.
+We prepare the sample data [sample](main/sample), you can replace it with your own data to run Path-LLM.
