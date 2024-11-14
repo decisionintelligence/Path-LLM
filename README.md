@@ -8,6 +8,5 @@ We prepare the sample data [sample](main/sample), you can replace it with your o
 ## Run Path-LLM
 `
 cd Path-LLM  
-
 bash train_eta.sh
 `
