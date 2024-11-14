@@ -7,6 +7,6 @@
 We prepare the sample data [sample](main/sample), you can replace it with your own data to run Path-LLM.
 ## Run Path-LLM
 `
-cd Path-LLM <br>
-bash train_eta.sh
+- cd Path-LLM
+- bash train_eta.sh
 `
